@@ -4,7 +4,7 @@ Bu dosya patika.dev'e ait olan Umu Atakul tarafından yapılmış "Veri Yapılar
 [22,27,16,2,18,6]
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-Yanıt:
+* Yanıt:
 [2,27,16,22,18,6]
 
 [2,6,16,22,18,27]
